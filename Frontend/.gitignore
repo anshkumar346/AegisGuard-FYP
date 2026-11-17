@@ -1,0 +1,17 @@
+# Frontend Local Exclusions
+node_modules/
+dist/
+build/
+dist-ssr/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+.vite/
+.cache/
+*.tmp
+*.png
